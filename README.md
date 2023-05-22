@@ -14,4 +14,3 @@
 
 6. **User Empowerment**: Web 3.0 empowers users by granting them more control and ownership of their digital assets. Through decentralized applications (dApps) and self-sovereign identity systems, individuals have the ability to manage their data, participate in decision-making, and be rewarded for their contributions.
 
-These characteristics collectively aim to redefine the internet by promoting user autonomy, data privacy, and collaboration in a decentralized and secure manner.
